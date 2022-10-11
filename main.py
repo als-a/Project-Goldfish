@@ -1,1 +1,2 @@
 #fish
+print('Hello World')
